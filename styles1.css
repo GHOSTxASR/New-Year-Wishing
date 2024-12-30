@@ -1,0 +1,108 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color:#F5FD6D;
+}
+#b2{
+    background-color: #A2CFFE;
+}
+#b3{
+    background-color: #DFA194;
+}
+.varela-round-regular {
+    font-family: "Varela Round", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+#b4{
+    background-color: #ac866c;
+}
+#b5{
+    background-color:#C46668;
+}
+#b8{
+    background-color:#201330;
+}
+#b9{
+    background-image: url(image.jpg);
+    background-size: cover; /* Ensures the image covers the entire screen */
+    background-position: center; /* Keeps the image centered */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    height: 100vh; /* Ensures the background takes up the entire viewport height */
+    margin: 0; /* Removes default margin */
+}
+#b10{
+    background-color: #A2CFFE;
+}
+#b11{
+    background-color: #A2CFFE;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column
+}
+h1{
+    color: black;
+    font-size: 20px;
+    font-family: Varela Round;
+    text-align: center;
+}
+#wish1{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: Varela Round;
+    text-align: center;
+}
+h2{
+    color: black;
+    font-size: 10px;
+    font-family: Varela Round;
+    text-align: center;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+#wish2{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-family: Varela Round;
+    text-align: center;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.wish3{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Varela Round;
+    text-align: center;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.btn{
+    background-color: #c4c4c4;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 15px;
+    font-family: Varela Round;
+}
+.btn1{
+    background-color: #c4c4c4;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 15px;
+    font-family: Varela Round;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10%;
+    margin-top: 20px;
+}
